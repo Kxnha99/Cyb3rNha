@@ -12,7 +12,7 @@ Dedicated to bridging the gap between enterprise networking and proactive securi
 
 ---
 
-### 🛠️ Skills & Technologies
+###  Skills & Technologies
 
 #### 🛡️ Cybersecurity & Defensive Operations
 ![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20Wazuh-blue) 
@@ -36,12 +36,7 @@ Dedicated to bridging the gap between enterprise networking and proactive securi
 * **[Virtual SOC Lab]** – Implementation of BIND9 DNS with centralized logging for security monitoring.
 * **[Network Lab Design]** – Educational topologies for teaching Dynamic NAT and ACL logic.
 
----
-
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyb3rNha&show_icons=true&theme=dark)
-
----
+----
 
 ### 📫 Connect with me
 * **LinkedIn:** [Your Link Here]
