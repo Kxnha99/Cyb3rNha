@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kanha (NHA SMOKE)
+# 👋 Hi there, I'm Kanha (Cyb3rNha)
 
 ### 🛡️ Network Training Instructor | Aspiring SOC Analyst
 Dedicated to bridging the gap between enterprise networking and proactive security defense. I specialize in building resilient network infrastructures and investigating real-world system vulnerabilities.
@@ -26,7 +26,6 @@ Dedicated to bridging the gap between enterprise networking and proactive securi
 
 #### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-Security%20Scripting-yellow)
-![C#](https://img.shields.io/badge/C%23-Development-purple)
 ![Bash](https://img.shields.io/badge/Bash-Automation-green)
 
 ---
@@ -39,5 +38,5 @@ Dedicated to bridging the gap between enterprise networking and proactive securi
 ----
 
 ### 📫 Connect with me
-* **LinkedIn:** [Your Link Here]
-* **Portfolio/Blog:** [Your Link Here]
+* **LinkedIn:** https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F
+* **Portfolio/Blog:** https://my-potfolio-rho-virid.vercel.app/
