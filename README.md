@@ -40,4 +40,4 @@
 📫 Contact me:  
 - Facebook: https://www.facebook.com/share/1DfFq2UULn/?mibextid=wwXIfr
 - GitHub: https://github.com/khongkoemtong/khongkoemtong
-- Telegram: @ounkoemtong
+- Telegram: https://t.me/cybercommunitykh
