@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kanha (Cyb3rNha)
+# 👋 Hi there, I'm Kanha!!
 
 ### 🛡️ Network Training Instructor | Aspiring SOC Analyst
 Dedicated to bridging the gap between enterprise networking and proactive security defense. I specialize in building resilient network infrastructures and investigating real-world system vulnerabilities.
