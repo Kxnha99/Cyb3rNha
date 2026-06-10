@@ -1,42 +1,128 @@
-# 👋 Hi there, I'm Kanha!!
+<div align="center">
 
-### 🛡️ Network Training Instructor | Aspiring SOC Analyst
-Dedicated to bridging the gap between enterprise networking and proactive security defense. I specialize in building resilient network infrastructures and investigating real-world system vulnerabilities.
+# 👋 Hi, I'm Somputh Kanha
 
----
+### 🔐 Cybersecurity Enthusiast | 👨‍🏫 IT Instructor | 🌐 Network Engineer
 
-### 🔍 Focus & Interests
-* **Blue Teaming:** SIEM log analysis, incident response, and threat hunting.
-* **Network Security:** Hardening Cisco/Linux environments and traffic analysis (Wireshark/Zeek).
-* **Technical Instruction:** Simplifying complex networking and cybersecurity concepts for students.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Cybersecurity+Instructor;Network+Security+Enthusiast;Wazuh+SIEM+Learner;Python+Developer;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
-###  Skills & Technologies
+## 🚀 About Me
 
-#### 🛡️ Cybersecurity & Defensive Operations
-![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20Wazuh-blue) 
-![Traffic Analysis](https://img.shields.io/badge/Traffic-Wireshark%20%7C%20Nmap-green)
-![Threat Intel](https://img.shields.io/badge/Intel-VirusTotal%20%7C%20MITRE%20ATT%26CK-orange)
+I'm currently working as an **IT & Cybersecurity Instructor at ETEC Center**, where I teach networking, cybersecurity, and IT-related technologies.
 
-#### 🌐 Networking & Infrastructure
-![Cisco](https://img.shields.io/badge/Cisco-BGP%20%7C%20OSPF%20%7C%20IPv6-blue)
-![Linux](https://img.shields.io/badge/OS-Ubuntu%20%7C%20Kali%20%7C%20Windows-lightgrey)
-![Servers](https://img.shields.io/badge/Services-BIND9%20%7C%20DNS%20%7C%20DHCP-red)
+🎓 Cybersecurity Graduate
 
-#### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-Security%20Scripting-yellow)
-![Bash](https://img.shields.io/badge/Bash-Automation-green)
+👨‍🏫 Instructor at ETEC Center
+
+🔐 Passionate about Cybersecurity & Network Security
+
+🌐 Experienced in Routing & Switching
+
+🛡️ Learning and working with SIEM solutions such as Wazuh
+
+🐍 Python Programming Enthusiast
+
+📚 Dedicated to continuous learning and sharing knowledge
 
 ---
 
-### 🚀 Recent Projects
-* **[CheckFirst Project]** – Youth International Conference on Mekong Group (YICMG) 2026.
-* **[Virtual SOC Lab]** – Implementation of BIND9 DNS with centralized logging for security monitoring.
-* **[Network Lab Design]** – Educational topologies for teaching Dynamic NAT and ACL logic.
+## 💻 Technical Skills
 
-----
+### 🛡️ Cybersecurity
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security-success?style=for-the-badge)
 
-### 📫 Connect with me
-* **LinkedIn:** https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F
-* **Portfolio/Blog:** https://my-potfolio-rho-virid.vercel.app/
+- Security Monitoring
+- SIEM (Wazuh)
+- Incident Response Fundamentals
+- Risk Assessment
+- Security Awareness
+- MITRE ATT&CK Framework
+- Information Security
+
+### 🌐 Networking
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
+
+- Routing & Switching
+- IPv4 & IPv6
+- OSPF
+- VLAN
+- DHCP
+- DNS
+- NAT
+- Firewall Configuration
+- Network Troubleshooting
+
+### 🐍 Programming
+![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge)
+
+- Python
+- Automation Scripts
+- Basic Security Tools Development
+
+### 🛠️ Tools
+![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge)
+
+- Wazuh
+- Wireshark
+- Nmap
+- Kali Linux
+- Git & GitHub
+- Cisco Packet Tracer
+- Microsoft Office Suite
+
+---
+
+## 🏆 Featured Project
+
+### HelpMe – Team Leader
+
+HelpMe is an AI-powered tourism platform designed to help foreign visitors travel more easily and efficiently in Cambodia.
+
+- Led a multidisciplinary development team
+- Coordinated project planning and presentations
+- Integrated AI-powered travel assistance features
+- Advanced from Cambodia's national competition to the international final stage in China
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somputhkanha443&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somputhkanha443&layout=compact)
+
+---
+
+## 🎯 Current Focus
+
+- Security Operations Center (SOC)
+- Incident Response
+- Vulnerability Assessment
+- Threat Detection & Monitoring
+- Python Automation
+- Wazuh SIEM
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: Your LinkedIn Profile
+
+🌐 GitHub: github.com/somputhkanha443
+
+---
+
+<div align="center">
+
+### "Learning, Teaching, and Securing the Digital World."
+
+</div>
