@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Somputh Kanha
+# 👋 Hi, I'm Kanha
 
 ### 🔐 Cybersecurity Enthusiast | 👨‍🏫 IT Instructor | 🎓 Senior Computer Science Student
 
