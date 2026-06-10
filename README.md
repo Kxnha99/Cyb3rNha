@@ -2,9 +2,7 @@
 
 # 👋 Hi, I'm Somputh Kanha
 
-### 🔐 Cybersecurity Enthusiast | 👨‍🏫 IT Instructor | 🌐 Network Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Cybersecurity+Instructor;Network+Security+Enthusiast;Wazuh+SIEM+Learner;Python+Developer;Always+Learning+New+Technologies" />
+### 🔐 Cybersecurity Enthusiast | 👨‍🏫 IT Instructor | 🐍 Python Learner
 
 </div>
 
@@ -12,41 +10,34 @@
 
 ## 🚀 About Me
 
-I'm currently working as an **IT & Cybersecurity Instructor at ETEC Center**, where I teach networking, cybersecurity, and IT-related technologies.
+I am a Cybersecurity graduate and currently working as an **IT & Cybersecurity Instructor at ETEC Center** in Cambodia.
 
-🎓 Cybersecurity Graduate
+I teach networking and cybersecurity while continuously improving my skills in security operations, incident response, and Python programming for cybersecurity.
 
-👨‍🏫 Instructor at ETEC Center
-
-🔐 Passionate about Cybersecurity & Network Security
-
-🌐 Experienced in Routing & Switching
-
-🛡️ Learning and working with SIEM solutions such as Wazuh
-
-🐍 Python Programming Enthusiast
-
-📚 Dedicated to continuous learning and sharing knowledge
+- 👨‍🏫 IT & Cybersecurity Instructor at ETEC Center
+- 🎓 Cybersecurity Graduate
+- 🔐 Passionate about Cybersecurity and Network Security
+- 🐍 Learning Python for Cybersecurity
+- 🌐 Networking & Security Enthusiast
+- 📚 Dedicated to continuous learning and knowledge sharing
 
 ---
 
-## 💻 Technical Skills
+## 🛡️ Cybersecurity Skills
 
-### 🛡️ Cybersecurity
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security-success?style=for-the-badge)
-
-- Security Monitoring
-- SIEM (Wazuh)
+- Information Security (InfoSec)
+- Network Security
+- Security Awareness
 - Incident Response Fundamentals
 - Risk Assessment
-- Security Awareness
 - MITRE ATT&CK Framework
-- Information Security
+- SIEM Fundamentals
+- Security Monitoring
+- Log Analysis
 
-### 🌐 Networking
-![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
+---
+
+## 🌐 Networking Skills
 
 - Routing & Switching
 - IPv4 & IPv6
@@ -58,24 +49,37 @@ I'm currently working as an **IT & Cybersecurity Instructor at ETEC Center**, wh
 - Firewall Configuration
 - Network Troubleshooting
 
-### 🐍 Programming
-![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge)
+---
 
-- Python
-- Automation Scripts
-- Basic Security Tools Development
+## 🛠️ Tools & Technologies
 
-### 🛠️ Tools
-![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
 
+### Current Tools
 - Wazuh
 - Wireshark
 - Nmap
 - Kali Linux
-- Git & GitHub
 - Cisco Packet Tracer
-- Microsoft Office Suite
+- Git & GitHub
+- Linux
+
+---
+
+## 🐍 Current Learning Journey
+
+I am currently learning Python for:
+
+- Security Automation
+- Log Analysis
+- Network Automation
+- Threat Detection
+- Cybersecurity Tools Development
+- Incident Response Automation
 
 ---
 
@@ -83,46 +87,33 @@ I'm currently working as an **IT & Cybersecurity Instructor at ETEC Center**, wh
 
 ### HelpMe – Team Leader
 
-HelpMe is an AI-powered tourism platform designed to help foreign visitors travel more easily and efficiently in Cambodia.
+An AI-powered tourism platform designed to help foreign visitors travel more easily in Cambodia.
 
 - Led a multidisciplinary development team
 - Coordinated project planning and presentations
-- Integrated AI-powered travel assistance features
-- Advanced from Cambodia's national competition to the international final stage in China
+- Advanced from Cambodia's national competition to the final stage in China
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 2026 Goals
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somputhkanha443&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somputhkanha443&layout=compact)
-
----
-
-## 🎯 Current Focus
-
-- Security Operations Center (SOC)
-- Incident Response
-- Vulnerability Assessment
-- Threat Detection & Monitoring
-- Python Automation
-- Wazuh SIEM
+- Build cybersecurity projects using Python
+- Strengthen Incident Response skills
+- Advance SIEM and SOC knowledge
+- Earn cybersecurity certifications
+- Contribute to open-source projects
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
-
-💼 LinkedIn: Your LinkedIn Profile
-
-🌐 GitHub: github.com/somputhkanha443
+- 💻 GitHub: github.com/somputhkanha443
+- 🇰🇭 Phnom Penh, Cambodia
 
 ---
 
 <div align="center">
 
-### "Learning, Teaching, and Securing the Digital World."
+### 🔥 Learn • Build • Secure • Share
 
 </div>
