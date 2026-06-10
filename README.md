@@ -2,7 +2,13 @@
 
 # 👋 Hi, I'm Somputh Kanha
 
-### 🔐 Cybersecurity Enthusiast | 👨‍🏫 IT Instructor | 🎓 Computer Science Student
+### 🔐 Cybersecurity Enthusiast | 👨‍🏫 IT Instructor | 🎓 Senior Computer Science Student
+
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-0078D4?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 </div>
 
@@ -10,35 +16,42 @@
 
 ## 🚀 About Me
 
-I am currently a **Senior Computer Science student at the Royal University of Phnom Penh (RUPP)** and an **IT & Cybersecurity Instructor at ETEC Center**.
+🎓 Senior Computer Science Student at Royal University of Phnom Penh (RUPP)
 
-I am passionate about cybersecurity, network security, and technology education. I enjoy helping students learn networking and cybersecurity concepts while continuously expanding my own knowledge in security operations and Python programming.
+👨‍🏫 IT & Cybersecurity Instructor at ETEC Center
 
-- 🎓 Senior Computer Science Student at Royal University of Phnom Penh
-- 👨‍🏫 IT & Cybersecurity Instructor at ETEC Center
-- 🔐 Passionate about Cybersecurity and Network Security
-- 🐍 Learning Python for Cybersecurity
-- 🌐 Networking & Infrastructure Enthusiast
-- 📚 Lifelong Learner and Knowledge Sharer
+🔐 Passionate about Cybersecurity, Network Security, and Security Operations
+
+🐍 Currently learning Python for Cybersecurity and Automation
+
+🌱 Always learning, building, and sharing knowledge
 
 ---
 
-## 🛡️ Cybersecurity
+# 🛡️ Cybersecurity
 
-- Information Security (InfoSec)
-- Network Security
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
 - Security Monitoring
-- SIEM Fundamentals
+- SIEM (Wazuh)
 - Incident Response Fundamentals
 - Risk Assessment
+- Information Security (InfoSec)
 - MITRE ATT&CK Framework
 - Security Awareness Training
 
 ---
 
-## 🌐 Networking
+# 🌐 Networking
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
 - Routing & Switching
+- TCP/IP
 - IPv4 & IPv6
 - OSPF
 - VLAN
@@ -50,59 +63,99 @@ I am passionate about cybersecurity, network security, and technology education.
 
 ---
 
-## 🐍 Programming
+# 🐍 Programming
 
-- Python (Learning for Cybersecurity)
-- Automation Fundamentals
-- Basic Security Scripting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
----
-
-## 🛠️ Tools & Technologies
-
-- Wazuh SIEM
-- Wireshark
-- Nmap
-- Kali Linux
-- Cisco Packet Tracer
-- Linux
-- Git & GitHub
-- Microsoft Office Suite
+- Python for Cybersecurity
+- Security Automation
+- Scripting
+- Log Analysis
+- Network Automation
 
 ---
 
-## 🏆 Featured Project
+# 🛠️ Tools & Technologies
 
-### HelpMe – Team Leader
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,vscode,git,github" />
+</p>
 
-An AI-powered tourism platform designed to help international visitors travel more easily and efficiently in Cambodia.
+| Tool | Description |
+|--------|------------|
+| 🛡️ Wazuh | SIEM & Security Monitoring |
+| 🐧 Linux | Operating System Administration |
+| 💻 VS Code | Development Environment |
+| 🌐 Cisco Packet Tracer | Networking Labs |
+| 🔍 Wireshark | Network Analysis |
+| 🎯 Nmap | Network Discovery & Scanning |
+| 🐉 Kali Linux | Security Testing |
+| 🔧 Git & GitHub | Version Control |
 
+---
+
+# 🏆 Featured Project
+
+## HelpMe – Team Leader
+
+An AI-powered tourism platform that helps foreign visitors travel more easily in Cambodia.
+
+### Responsibilities
 - Led a multidisciplinary development team
 - Coordinated project planning and presentations
-- Integrated AI-assisted tourism support features
-- Advanced from the Cambodia national competition to the international final stage in China
+- Integrated AI-powered travel assistance features
+- Represented the team in competitions
+- Advanced from Cambodia's national competition to the final stage in China
 
 ---
 
-## 🎯 Current Goals
+# 🎯 Current Learning
 
-- Strengthen Incident Response skills
-- Build cybersecurity projects with Python
-- Improve SIEM and SOC knowledge
-- Contribute to open-source projects
-- Pursue professional cybersecurity certifications
+- Python for Cybersecurity
+- Security Automation
+- Incident Response
+- SOC Operations
+- Threat Detection
+- Wazuh SIEM
 
 ---
 
-## 📫 Connect With Me
+# 📫 Contact Me
 
-- 💻 GitHub: github.com/somputhkanha443
-- 📍 Phnom Penh, Cambodia
+<p align="left">
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_TELEGRAM">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="YOUR_FACEBOOK">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://github.com/somputhkanha443">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_TIKTOK">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="YOUR_YOUTUBE">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 <div align="center">
 
-### "Learning, Teaching, and Securing the Digital World."
+### 🔥 Learn • Build • Secure • Share
+
+*"Continuous learning, building, and securing the digital world."*
 
 </div>
