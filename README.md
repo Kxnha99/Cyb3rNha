@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Somputh Kanha
 
-### 🔐 Cybersecurity Enthusiast | 👨‍🏫 IT Instructor | 🐍 Python Learner
+### 🔐 Cybersecurity Enthusiast | 👨‍🏫 IT Instructor | 🎓 Computer Science Student
 
 </div>
 
@@ -10,34 +10,33 @@
 
 ## 🚀 About Me
 
-I am a Cybersecurity graduate and currently working as an **IT & Cybersecurity Instructor at ETEC Center** in Cambodia.
+I am currently a **Senior Computer Science student at the Royal University of Phnom Penh (RUPP)** and an **IT & Cybersecurity Instructor at ETEC Center**.
 
-I teach networking and cybersecurity while continuously improving my skills in security operations, incident response, and Python programming for cybersecurity.
+I am passionate about cybersecurity, network security, and technology education. I enjoy helping students learn networking and cybersecurity concepts while continuously expanding my own knowledge in security operations and Python programming.
 
+- 🎓 Senior Computer Science Student at Royal University of Phnom Penh
 - 👨‍🏫 IT & Cybersecurity Instructor at ETEC Center
-- 🎓 Cybersecurity Graduate
 - 🔐 Passionate about Cybersecurity and Network Security
 - 🐍 Learning Python for Cybersecurity
-- 🌐 Networking & Security Enthusiast
-- 📚 Dedicated to continuous learning and knowledge sharing
+- 🌐 Networking & Infrastructure Enthusiast
+- 📚 Lifelong Learner and Knowledge Sharer
 
 ---
 
-## 🛡️ Cybersecurity Skills
+## 🛡️ Cybersecurity
 
 - Information Security (InfoSec)
 - Network Security
-- Security Awareness
+- Security Monitoring
+- SIEM Fundamentals
 - Incident Response Fundamentals
 - Risk Assessment
 - MITRE ATT&CK Framework
-- SIEM Fundamentals
-- Security Monitoring
-- Log Analysis
+- Security Awareness Training
 
 ---
 
-## 🌐 Networking Skills
+## 🌐 Networking
 
 - Routing & Switching
 - IPv4 & IPv6
@@ -51,35 +50,24 @@ I teach networking and cybersecurity while continuously improving my skills in s
 
 ---
 
+## 🐍 Programming
+
+- Python (Learning for Cybersecurity)
+- Automation Fundamentals
+- Basic Security Scripting
+
+---
+
 ## 🛠️ Tools & Technologies
 
-![Python](https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python)
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)
-![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
-
-### Current Tools
-- Wazuh
+- Wazuh SIEM
 - Wireshark
 - Nmap
 - Kali Linux
 - Cisco Packet Tracer
-- Git & GitHub
 - Linux
-
----
-
-## 🐍 Current Learning Journey
-
-I am currently learning Python for:
-
-- Security Automation
-- Log Analysis
-- Network Automation
-- Threat Detection
-- Cybersecurity Tools Development
-- Incident Response Automation
+- Git & GitHub
+- Microsoft Office Suite
 
 ---
 
@@ -87,33 +75,34 @@ I am currently learning Python for:
 
 ### HelpMe – Team Leader
 
-An AI-powered tourism platform designed to help foreign visitors travel more easily in Cambodia.
+An AI-powered tourism platform designed to help international visitors travel more easily and efficiently in Cambodia.
 
 - Led a multidisciplinary development team
 - Coordinated project planning and presentations
-- Advanced from Cambodia's national competition to the final stage in China
+- Integrated AI-assisted tourism support features
+- Advanced from the Cambodia national competition to the international final stage in China
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Goals
 
-- Build cybersecurity projects using Python
 - Strengthen Incident Response skills
-- Advance SIEM and SOC knowledge
-- Earn cybersecurity certifications
+- Build cybersecurity projects with Python
+- Improve SIEM and SOC knowledge
 - Contribute to open-source projects
+- Pursue professional cybersecurity certifications
 
 ---
 
 ## 📫 Connect With Me
 
 - 💻 GitHub: github.com/somputhkanha443
-- 🇰🇭 Phnom Penh, Cambodia
+- 📍 Phnom Penh, Cambodia
 
 ---
 
 <div align="center">
 
-### 🔥 Learn • Build • Secure • Share
+### "Learning, Teaching, and Securing the Digital World."
 
 </div>
